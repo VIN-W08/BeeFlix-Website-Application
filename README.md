@@ -1,3 +1,8 @@
+# BeeFlix Website
+Beeflix website is a website that provide information of shows with different categories such as movie, drama, TV show, and Kids. The information provided for each show includes poster, title, category, rating, synopsis, and episodes with their title.
+
+## --------------------------------------------------------------------------------------------------------
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 <p align="center">
